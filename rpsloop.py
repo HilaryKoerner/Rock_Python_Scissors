@@ -1,3 +1,4 @@
+#import dependency
 import random
 
 print("Let's play Rock, Paper, Scissors")
