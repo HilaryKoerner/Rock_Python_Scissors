@@ -1,6 +1,6 @@
 # Rock Python Scissors 
 
-Rock Python Scissors is a .py file that the user can run in Anaconda Prompt to play Rock, Paper, Scissors against the computer. 
+Rock, Python, Scissors is a .py file that the user can run in Anaconda Prompt to play Rock, Paper, Scissors against the computer. 
 
 The python script uses a while loop that will continue to prompt the user to play RSP until they decline. While in play mode, the user will input (r)ock, (p)aper, (s)cissors and a randomly generated response is printed and a winner is declared. 
 
